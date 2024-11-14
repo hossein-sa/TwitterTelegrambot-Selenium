@@ -53,7 +53,7 @@ This project is a Telegram bot that fetches tweets from a provided Twitter URL u
   
 - Use the `/fetch <Twitter_URL>` command to scrape tweets and send them to the Telegram channel:
   ```plaintext
-  /fetch https://twitter.com/elonmusk
+  /fetch https://x.com/elonmusk
   ```
 
 ## Example
