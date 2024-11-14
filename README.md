@@ -1,10 +1,10 @@
-# Twitter Scraper Telegram Bot
+# Twitter(X) Scraper Telegram Bot
 
 This project is a Telegram bot that fetches tweets from a provided Twitter URL using Selenium WebDriver, then sends the tweets to a specified Telegram channel. The bot fetches the latest tweets and formats them for easy reading.
 
 ## Features
 
-- **Fetch Tweets**: Provides a `/fetch <Twitter_URL>` command to scrape tweets from a Twitter user's profile or a tweet's URL.
+- **Fetch Tweets**: Provides a `/fetch <Twitter_URL>` (X also) command to scrape tweets from a Twitter user's profile or a tweet's URL.
 - **Telegram Channel Integration**: Sends the scraped tweets directly to a specified Telegram channel.
 - **MarkdownV2 Formatting**: Tweets are formatted with MarkdownV2 for better readability.
 - **Rate Limiting**: Implements rate limiting to avoid sending requests to Twitter too frequently.
